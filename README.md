@@ -56,7 +56,7 @@ Student-Scoreboard/
 
 🌐 Live Website
 
-student-scoreboard-reac.netlify.app
+https://student-scoreboard-reac.netlify.app/
 
 ---
 
