@@ -9,7 +9,7 @@ This project demonstrates React fundamentals including state management, dynamic
 ## 📸 Preview
 
 <p align="center">
-  <img src="studentscore-board/src/screenshot.png" alt="Student Scoreboard Preview" width="850">
+  <img src="student-scoreboard/src/screenshot.png" alt="Student Scoreboard Preview" width="850">
 </p>
 
 
@@ -65,7 +65,7 @@ student-scoreboard-reac.netlify.app
 Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/student-scoreboard-react.git
+git clone https://github.com/suryaraghav2703-spec/student-scoreboard-react
 ```
 
 Go to the project folder
