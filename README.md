@@ -9,7 +9,7 @@ This project demonstrates React fundamentals including state management, dynamic
 ## 📸 Preview
 
 <p align="center">
-  <img src="src/screenshot.png" alt="Student Scoreboard Preview" width="850">
+  <img src="studentscoreboard/src/screenshot.png" alt="Student Scoreboard Preview" width="850">
 </p>
 
 
